@@ -1,0 +1,8 @@
+-XX:+ShowCodeDetailsInExceptionMessages
+-agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:63294
+"-javaagent:C:\\Users\\OEM\\eclipse\\java-2022-03\\eclipse\\configuration\\org.eclipse.osgi\\225\\0\\.cp\\lib\\javaagent-shaded.jar"
+-Dfile.encoding=UTF-8
+-classpath
+"C:\\Users\\OEM\\eclipse-workspace\\ItemLevelCalculator"
+ConvertItemLevel
+15
